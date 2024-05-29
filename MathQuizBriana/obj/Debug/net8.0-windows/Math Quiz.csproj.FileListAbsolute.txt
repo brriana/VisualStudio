@@ -1,0 +1,48 @@
+C:\Users\iovur\Desktop\Math Quiz\bin\Debug\net8.0-windows\Math Quiz.exe
+C:\Users\iovur\Desktop\Math Quiz\bin\Debug\net8.0-windows\Math Quiz.deps.json
+C:\Users\iovur\Desktop\Math Quiz\bin\Debug\net8.0-windows\Math Quiz.runtimeconfig.json
+C:\Users\iovur\Desktop\Math Quiz\bin\Debug\net8.0-windows\Math Quiz.dll
+C:\Users\iovur\Desktop\Math Quiz\bin\Debug\net8.0-windows\Math Quiz.pdb
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math_Quiz.Form1.resources
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math Quiz.csproj.GenerateResource.cache
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math Quiz.AssemblyInfoInputs.cache
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math Quiz.AssemblyInfo.cs
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math Quiz.dll
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\refint\Math Quiz.dll
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math Quiz.pdb
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\Math Quiz.genruntimeconfig.cache
+C:\Users\iovur\Desktop\Math Quiz\obj\Debug\net8.0-windows\ref\Math Quiz.dll
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\bin\Debug\net8.0-windows\Math Quiz.exe
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\bin\Debug\net8.0-windows\Math Quiz.deps.json
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\bin\Debug\net8.0-windows\Math Quiz.runtimeconfig.json
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\bin\Debug\net8.0-windows\Math Quiz.dll
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\bin\Debug\net8.0-windows\Math Quiz.pdb
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math_Quiz.Form1.resources
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math Quiz.csproj.GenerateResource.cache
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math Quiz.AssemblyInfoInputs.cache
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math Quiz.AssemblyInfo.cs
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math Quiz.dll
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\refint\Math Quiz.dll
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math Quiz.pdb
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\Math Quiz.genruntimeconfig.cache
+C:\Users\iovur\Downloads\Math-Quiz-main\Math-Quiz-main\obj\Debug\net8.0-windows\ref\Math Quiz.dll
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\bin\Debug\net8.0-windows\Math Quiz.exe
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\bin\Debug\net8.0-windows\Math Quiz.deps.json
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\bin\Debug\net8.0-windows\Math Quiz.runtimeconfig.json
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\bin\Debug\net8.0-windows\Math Quiz.dll
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\bin\Debug\net8.0-windows\Math Quiz.pdb
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math_Quiz.Form1.resources
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math Quiz.csproj.GenerateResource.cache
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math Quiz.AssemblyInfoInputs.cache
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math Quiz.AssemblyInfo.cs
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math Quiz.dll
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\refint\Math Quiz.dll
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math Quiz.pdb
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\Math Quiz.genruntimeconfig.cache
+C:\Users\briana\Downloads\Math-Quiz-final-main\Math-Quiz-final-main\obj\Debug\net8.0-windows\ref\Math Quiz.dll

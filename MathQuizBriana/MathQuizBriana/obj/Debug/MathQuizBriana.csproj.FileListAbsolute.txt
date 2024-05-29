@@ -1,0 +1,6 @@
+C:\Users\briana\Desktop\briana\Visual Studio - Projects\2024\MathQuizBriana\MathQuizBriana\obj\Debug\MathQuizBriana.csproj.AssemblyReference.cache
+C:\Users\briana\Desktop\briana\Visual Studio - Projects\2024\MathQuizBriana\MathQuizBriana\obj\Debug\MathQuizBriana.MathQuiz.resources
+C:\Users\briana\Desktop\briana\Visual Studio - Projects\2024\MathQuizBriana\MathQuizBriana\obj\Debug\MathQuizBriana.Properties.Resources.resources
+C:\Users\briana\Desktop\briana\Visual Studio - Projects\2024\MathQuizBriana\MathQuizBriana\obj\Debug\MathQuizBriana.csproj.GenerateResource.cache
+C:\Users\briana\Desktop\briana\Visual Studio - Projects\2024\MathQuizBriana\MathQuizBriana\obj\Debug\MathQuizBriana.csproj.CoreCompileInputs.cache
+C:\Users\briana\Desktop\briana\Visual Studio - Projects\2024\MathQuizBriana\MathQuizBriana\obj\Debug\Math_Quiz.Form1.resources
